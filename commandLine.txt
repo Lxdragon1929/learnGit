@@ -2,4 +2,4 @@ git branch dev
 git checkout dev
 git add .
 git commit -m 'create dev'
-git push dev:dev
+git push origin dev:dev
